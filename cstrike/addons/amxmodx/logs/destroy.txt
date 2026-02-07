@@ -1,0 +1,3 @@
+L 08/29/2015 - 17:44:33: Log file started (file "cstrike/addons/amxmodx/logs/destroy.txt") (game "cstrike") (amx "1.8.3-dev+4758")
+L 08/29/2015 - 17:44:33: Admin BMW_M3_GTR1 i-a dat destroy lui NikiSmecheru123
+L 08/30/2015 - 15:04:20: Admin BMW_M3_GTR1 i-a dat destroy lui kent

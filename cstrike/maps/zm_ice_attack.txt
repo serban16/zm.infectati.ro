@@ -1,0 +1,12 @@
+zm_ice_attack - Zombie
+Made by www.cs-zombie.myforum.ro
+
+Counter-Terrorists : Oamenii trebuie sa scape de Zombie .
+
+Terrorists : Zombie trebuie sa omoare toti oamenii .
+
+Other Notes : Fugiti pentru a va salva vietile . 
+
+Respectati regulile . 
+
+WWW.CS-ZOMBIE.MYFORUM.RO ( Forum-ul serverului LgZombie.Idle.Ro ) 

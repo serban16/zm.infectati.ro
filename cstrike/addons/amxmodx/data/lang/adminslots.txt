@@ -1,0 +1,5 @@
+[en]
+DROPPED_RES = Ai primit kick pentru rezervare slot.
+
+[ro]
+DROPPED_RES = Ai primit kick pentru rezervare slot.

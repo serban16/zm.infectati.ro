@@ -1,0 +1,7 @@
+=====================================================
+[BAN] Ai fost banat !
+[BAN] Motiv: [BAN_REASON]!
+[BAN] Pentru unban viziteaza www.infectati.ro !
+[BAN] SteamID-ul tau : [PLAYER_AUTHID] ! 
+[BAN] IP-ul tau : [PLAYER_IP]
+=====================================================

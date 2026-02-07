@@ -1,0 +1,14 @@
+zm_army_tn_beta3 - Zombie Mod
+
+ Infection
+The-No0n3 ( TheNo0n3@gmail.com )
+
+Info:
+Current version: BETA 3
+Last updated: 30.11.2008
+Created by: The-No0n3
+
+Notes:
+
+This is remake of zm_army, It might be a bit glitched, because it's BETA. It's made for Infected Servers ( http://www.infected-servers.com )
+Leefer please don't hate me :D

@@ -1,0 +1,25 @@
+[en]
+COL_WHITE = alb
+COL_RED = rosu
+COL_GREEN = verde
+COL_BLUE = albastru
+COL_YELLOW = galben
+COL_MAGENTA = purpuriu
+COL_CYAN = cian
+COL_ORANGE = portocaliu
+COL_OCEAN = ocean
+COL_MAROON = maro
+PRINT_ALL = (TOTI) %s :   %s
+
+[ro]
+COL_WHITE = alb
+COL_RED = rosu
+COL_GREEN = verde
+COL_BLUE = albastru
+COL_YELLOW = galben
+COL_MAGENTA = purpuriu
+COL_CYAN = cian
+COL_ORANGE = portocaliu
+COL_OCEAN = ocean
+COL_MAROON = maro
+PRINT_ALL = (TOTI) %s :   %s

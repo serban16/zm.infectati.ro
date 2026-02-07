@@ -1,0 +1,11 @@
+zm_humans - Zombie Map
+
+Map created by Tatu Eugen
+
+www.tatueugen.info
+contact@tatueugen.info
+
+Map for Zombie Mod, a dark map with special zones
+for CT and T
+
+Max players: 32

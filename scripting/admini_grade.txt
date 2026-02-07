@@ -1,0 +1,16 @@
+#define	GROUPS 5
+
+new const g_Flags[ GROUPS ][ ] = {
+	"Owner",
+	"Co-Owner",
+	"Administrator",
+	"Co-Administrator",
+	"Mini-Admin"
+}
+new const g_Groups[ GROUPS ][ ] = {
+	"abcdefghijklmnopqrstu",
+	"bcdefghijklmnopqrstu",
+	"cdefgijmn",
+	"cdefijm",
+	"cefij"
+}

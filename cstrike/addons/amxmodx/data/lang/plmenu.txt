@@ -1,0 +1,34 @@
+[en]
+ADMIN_BAN_1 = ADMIN: ban %s
+ADMIN_BAN_2 = ADMIN %s: ban %s
+BAN_MENU = Meniu Ban
+BAN_FOR_MIN = Ban %d minute
+BAN_PERM = Ban permanent
+SLAP_SLAY_MENU = Slap/Slay
+SLAP_WITH_DMG = Slap cu %d dmg
+SLAY = Slay
+KICK_MENU = Meniu Kick
+ADMIN_TRANSF_1 = ADMIN: transfera %s la %s
+ADMIN_TRANSF_2 = ADMIN %s: transfera %s la %s
+TEAM_MENU = Meniu Echipe
+TRANSF_TO = Transfera la %s
+CL_CMD_MENU = Meniu Comenzi Jucator
+NO_CMDS = Nici o comanda valabila
+
+[ro]
+ADMIN_BAN_1 = ADMIN: ban %s
+ADMIN_BAN_2 = ADMIN %s: ban %s
+BAN_MENU = Meniu Ban
+BAN_FOR_MIN = Ban %d minute
+BAN_PERM = Ban permanent
+SLAP_SLAY_MENU = Slap/Slay
+SLAP_WITH_DMG = Slap cu %d dmg
+SLAY = Slay
+KICK_MENU = Meniu Kick
+ADMIN_TRANSF_1 = ADMIN: transfera %s la %s
+ADMIN_TRANSF_2 = ADMIN %s: transfera %s la %s
+TEAM_MENU = Meniu Echipe
+TRANSF_TO = Transfera la %s
+CL_CMD_MENU = Meniu Comenzi Jucator
+NO_CMDS = Nici o comanda valabila
+NO_CMDS = Nici o comanda valabila

@@ -1,0 +1,9 @@
+[en]
+CMD_MENU = Meniu Comenzi
+CONF_MENU = Meniu Configuratie
+SPE_MENU = Meniu Vorbire
+
+[ro]
+CMD_MENU = Meniu Comenzi
+CONF_MENU = Meniu Configuratie
+SPE_MENU = Meniu Vorbire

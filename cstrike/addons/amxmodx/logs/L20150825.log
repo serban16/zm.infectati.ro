@@ -1,0 +1,708 @@
+L 08/25/2015 - 00:24:17: -------- Mapchange to zm_newzombie --------
+L 08/25/2015 - 00:24:18: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 00:52:29: -------- Mapchange to zm_assault_shadow --------
+L 08/25/2015 - 00:52:30: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 01:20:41: -------- Mapchange to zm_aztec_defense --------
+L 08/25/2015 - 01:20:42: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 01:48:54: -------- Mapchange to zm_lorencia --------
+L 08/25/2015 - 01:48:55: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 02:17:07: -------- Mapchange to zm_house_2011 --------
+L 08/25/2015 - 02:17:08: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 02:45:19: -------- Mapchange to zm_zHell --------
+L 08/25/2015 - 02:45:20: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 03:13:31: -------- Mapchange to zm_snowbase3 --------
+L 08/25/2015 - 03:13:32: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 03:41:43: -------- Mapchange to zm_death_alley --------
+L 08/25/2015 - 03:41:44: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 04:09:55: -------- Mapchange to zm_fear --------
+L 08/25/2015 - 04:09:56: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 04:38:08: -------- Mapchange to zm_fortuna --------
+L 08/25/2015 - 04:38:09: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 05:06:20: -------- Mapchange to zm_foda --------
+L 08/25/2015 - 05:06:21: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 05:34:33: -------- Mapchange to zm_ojro_dwa --------
+L 08/25/2015 - 05:34:34: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 06:02:45: -------- Mapchange to zm_dust2-final_click21 --------
+L 08/25/2015 - 06:02:46: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 06:30:57: -------- Mapchange to zm_castle_siege2 --------
+L 08/25/2015 - 06:30:59: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 06:59:11: -------- Mapchange to zm_westwood_click21 --------
+L 08/25/2015 - 06:59:15: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 07:27:34: -------- Mapchange to zm_newzombie --------
+L 08/25/2015 - 07:27:37: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 07:55:49: -------- Mapchange to zm_666_brick --------
+L 08/25/2015 - 07:55:50: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 08:24:01: -------- Mapchange to zm_run_while_u_can --------
+L 08/25/2015 - 08:24:03: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 08:52:14: -------- Mapchange to zm_zod_aztec --------
+L 08/25/2015 - 08:52:15: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 09:20:26: -------- Mapchange to zm_dust2009 --------
+L 08/25/2015 - 09:20:27: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 09:48:39: -------- Mapchange to zm_lorencia --------
+L 08/25/2015 - 09:48:40: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 10:16:52: -------- Mapchange to zm_army_tn_beta3 --------
+L 08/25/2015 - 10:16:53: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 10:59:48: [adminchat.amxx] Chat: "uNicuL<46><STEAM_0:0:575450316><>" tsay "r3"
+L 08/25/2015 - 11:00:01: [admincmd.amxx] Cmd: "uNicuL<46><STEAM_0:0:575450316><>" changelevel "zm_foda"
+L 08/25/2015 - 11:00:03: -------- Mapchange to zm_foda --------
+L 08/25/2015 - 11:00:05: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 11:00:25: [adminchat.amxx] Chat: "uNicuL<46><STEAM_0:0:575450316><>" tsay "era mare mapa pt 4 plaierii"
+L 08/25/2015 - 11:01:10: [adminchat.amxx] Chat: "uNicuL<46><STEAM_0:0:575450316><>" tsay "nu se da bmb de infecti la ultimul om"
+L 08/25/2015 - 11:01:32: [adminchat.amxx] Chat: "uNicuL<46><STEAM_0:0:575450316><>" tsay "next 2 mod"
+L 08/25/2015 - 11:44:32: -------- Mapchange to zm_humans --------
+L 08/25/2015 - 11:44:33: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 11:48:31: -------- Mapchange to zm_westwood --------
+L 08/25/2015 - 11:48:32: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 12:19:00: -------- Mapchange to zm_office --------
+L 08/25/2015 - 12:19:04: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 12:45:13: -------- Mapchange to zm_dust_world --------
+L 08/25/2015 - 12:45:15: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 12:45:24: -------- Mapchange to zm_aztec_defense --------
+L 08/25/2015 - 12:45:25: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 13:13:37: -------- Mapchange to zm_aztec_temple --------
+L 08/25/2015 - 13:13:38: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 13:16:23: [admin_zm.amxx] Login: "Omega<2><STEAM_0:0:1373426510><>" kicked due to invalid password (account "Omega") (address "89.41.97.142")
+L 08/25/2015 - 13:17:08: [admin_zm.amxx] Login: "Omega<3><STEAM_0:0:1373426510><>" kicked due to invalid password (account "Omega") (address "89.41.97.142")
+L 08/25/2015 - 13:17:24: [admin_zm.amxx] Login: "Omega<4><STEAM_0:0:1373426510><>" kicked due to invalid password (account "Omega") (address "89.41.97.142")
+L 08/25/2015 - 13:18:42: [admin_zm.amxx] Login: "Omega<5><STEAM_0:0:1373426510><>" kicked due to invalid password (account "Omega") (address "89.41.97.142")
+L 08/25/2015 - 13:36:49: [admin_zm.amxx] Login: "@lex<11><STEAM_0:0:1245423730><>" kicked due to invalid password (account "@leX") (address "5.14.199.57")
+L 08/25/2015 - 13:37:32: [admin_zm.amxx] Login: "@lex<12><STEAM_0:0:1245423730><>" kicked due to invalid password (account "@leX") (address "5.14.199.57")
+L 08/25/2015 - 13:38:27: [admin_zm.amxx] Login: "@lex<13><STEAM_0:0:1245423730><>" kicked due to invalid password (account "@leX") (address "5.14.199.57")
+L 08/25/2015 - 13:45:29: -------- Mapchange to zm_westwood_click21 --------
+L 08/25/2015 - 13:45:30: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 13:55:20: [admincmd.amxx] Cmd: "uNicuL<19><STEAM_0:0:575450316><>" changelevel "zm_foda"
+L 08/25/2015 - 13:55:22: -------- Mapchange to zm_foda --------
+L 08/25/2015 - 13:55:29: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 13:58:31: [adminchat.amxx] Chat: "uNicuL<19><STEAM_0:0:575450316><>" tsay "nu se da bmb la ultimul om slay/kick/ban"
+L 08/25/2015 - 13:58:51: [adminchat.amxx] Chat: "uNicuL<19><STEAM_0:0:575450316><>" tsay "zm ataca say slay"
+L 08/25/2015 - 13:58:58: [adminchat.amxx] Chat: "uNicuL<19><STEAM_0:0:575450316><>" tsay "sau*"
+L 08/25/2015 - 13:59:15: [admincmd.amxx] Cmd: "uNicuL<19><STEAM_0:0:575450316><>" slay "Omega<24><STEAM_0:0:1373426510><>"
+L 08/25/2015 - 14:00:06: [admin_zm.amxx] Login: "SM-Player<25><STEAM_0:0:1034167257><>" kicked due to invalid password (account "Sm-Player") (address "86.125.236.15")
+L 08/25/2015 - 14:02:21: [zm_vip_extra_buy_survnem.amxx] uNicuL a cumparat nemesis
+L 08/25/2015 - 14:04:19: [adminchat.amxx] Chat: "uNicuL<19><STEAM_0:0:575450316><>" tsay "ZM ATACA SU SLAY"
+L 08/25/2015 - 14:04:49: [admincmd.amxx] Cmd: "uNicuL<19><STEAM_0:0:575450316><>" slay "Cristian<22><VALVE_0:4:1449712626><>"
+L 08/25/2015 - 14:05:17: [admincmd.amxx] Cmd: "uNicuL<19><STEAM_0:0:575450316><>" slay "Cristian<22><VALVE_0:4:1449712626><>"
+L 08/25/2015 - 14:05:44: [adminchat.amxx] Chat: "uNicuL<19><STEAM_0:0:575450316><>" tsay "nu ai voie bmb la ultimul om"
+L 08/25/2015 - 14:07:22: [admincmd.amxx] Cmd: "uNicuL<19><STEAM_0:0:575450316><>" slay "Cristian<22><VALVE_0:4:1449712626><>"
+L 08/25/2015 - 14:10:20: [admincmd.amxx] Cmd: "uNicuL<19><STEAM_0:0:575450316><>" changelevel "zm_foda"
+L 08/25/2015 - 14:10:22: -------- Mapchange to zm_foda --------
+L 08/25/2015 - 14:10:25: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 14:10:39: [admincmd.amxx] Cmd: "uNicuL<19><STEAM_0:0:575450316><>" changelevel "zm_foda"
+L 08/25/2015 - 14:10:42: -------- Mapchange to zm_foda --------
+L 08/25/2015 - 14:10:42: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 14:10:58: [admincmd.amxx] Cmd: "uNicuL<19><STEAM_0:0:575450316><>" changelevel "zm_foda"
+L 08/25/2015 - 14:11:00: -------- Mapchange to zm_foda --------
+L 08/25/2015 - 14:11:01: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 14:11:15: [admincmd.amxx] Cmd: "uNicuL<19><STEAM_0:0:575450316><>" changelevel "zm_foda"
+L 08/25/2015 - 14:11:17: -------- Mapchange to zm_foda --------
+L 08/25/2015 - 14:11:18: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 14:11:29: [admincmd.amxx] Cmd: "uNicuL<19><STEAM_0:0:575450316><>" changelevel "zm_foda"
+L 08/25/2015 - 14:11:31: -------- Mapchange to zm_foda --------
+L 08/25/2015 - 14:11:31: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 14:11:47: [admincmd.amxx] Cmd: "uNicuL<19><STEAM_0:0:575450316><>" changelevel "zm_foda"
+L 08/25/2015 - 14:11:50: -------- Mapchange to zm_foda --------
+L 08/25/2015 - 14:11:50: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 14:12:09: [admincmd.amxx] Cmd: "uNicuL<19><STEAM_0:0:575450316><>" changelevel "zm_foda"
+L 08/25/2015 - 14:12:11: -------- Mapchange to zm_foda --------
+L 08/25/2015 - 14:12:12: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 14:12:53: [adminchat.amxx] Chat: "uNicuL<19><STEAM_0:0:575450316><>" tsay "salut"
+L 08/25/2015 - 14:13:22: [adminchat.amxx] Chat: "uNicuL<19><STEAM_0:0:575450316><>" tsay "ce faci?"
+L 08/25/2015 - 14:15:14: [zm_vip_extra_buy_survnem.amxx] uNicuL a cumparat nemesis
+L 08/25/2015 - 14:15:32: [adminchat.amxx] Chat: "uNicuL<19><STEAM_0:0:575450316><>" tsay "schimbam mapa?"
+L 08/25/2015 - 14:26:43: [admin_zm.amxx] Login: "btn^andrey<32><STEAM_0:0:383404615><>" kicked due to invalid password (account "btn^andrey") (address "109.98.160.19")
+L 08/25/2015 - 14:38:02: [adminchat.amxx] Chat: "uNicuL<39><STEAM_0:0:575450316><>" tsay "salutare"
+L 08/25/2015 - 14:38:06: [adminchat.amxx] Chat: "uNicuL<39><STEAM_0:0:575450316><>" tsay ":))"
+L 08/25/2015 - 14:38:19: [adminchat.amxx] Chat: "uNicuL<39><STEAM_0:0:575450316><>" tsay "next 2 mod"
+L 08/25/2015 - 14:38:39: [adminchat.amxx] Chat: "uNicuL<39><STEAM_0:0:575450316><>" tsay "o stiti pe dana?"
+L 08/25/2015 - 14:38:52: [adminchat.amxx] Chat: "uNicuL<39><STEAM_0:0:575450316><>" tsay "fb are?"
+L 08/25/2015 - 14:39:27: [adminchat.amxx] Chat: "uNicuL<39><STEAM_0:0:575450316><>" tsay "mmod"
+L 08/25/2015 - 14:39:38: [adminchat.amxx] Chat: "uNicuL<39><STEAM_0:0:575450316><>" tsay "next mod"
+L 08/25/2015 - 14:41:41: [adminchat.amxx] Chat: "uNicuL<39><STEAM_0:0:575450316><>" tsay "mod"
+L 08/25/2015 - 14:41:50: [zm_vip_extra_buy_survnem.amxx] uNicuL a cumparat nemesis
+L 08/25/2015 - 15:06:57: -------- Mapchange to zm_3rooms --------
+L 08/25/2015 - 15:06:58: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 15:13:46: [adminchat.amxx] Chat: "uNicuL<63><STEAM_0:0:575450316><>" tsay "next mod"
+L 08/25/2015 - 15:14:41: [adminchat.amxx] Chat: "uNicuL<63><STEAM_0:0:575450316><>" tsay "repeta"
+L 08/25/2015 - 15:14:49: [zm_vip_extra_buy_survnem.amxx] uNicuL a cumparat nemesis
+L 08/25/2015 - 15:15:46: [admincmd.amxx] Kick: "uNicuL<63><STEAM_0:0:575450316><>" kick "dorinboss002<70><STEAM_0:0:1760708989><>" (reason "")
+L 08/25/2015 - 15:20:39: [admincmd.amxx] Cmd: "uNicuL<63><STEAM_0:0:575450316><>" slay "btn^andrey<74><STEAM_0:0:383404615><>"
+L 08/25/2015 - 15:20:45: [admincmd.amxx] Kick: "uNicuL<63><STEAM_0:0:575450316><>" kick "btn^andrey<74><STEAM_0:0:383404615><>" (reason "")
+L 08/25/2015 - 15:21:04: [adminchat.amxx] Chat: "uNicuL<63><STEAM_0:0:575450316><>" tsay "ai primit pt retri"
+L 08/25/2015 - 15:21:37: [adminchat.amxx] Chat: "uNicuL<63><STEAM_0:0:575450316><>" tsay "ai primit pt retri"
+L 08/25/2015 - 15:21:43: [adminchat.amxx] Chat: "uNicuL<63><STEAM_0:0:575450316><>" tsay "cand eram eu neme"
+L 08/25/2015 - 15:28:14: [admincmd.amxx] Cmd: "uNicuL<80><STEAM_0:0:575450316><>" changelevel "zm_ice_attack3"
+L 08/25/2015 - 15:28:17: -------- Mapchange to zm_ice_attack3 --------
+L 08/25/2015 - 15:28:18: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 15:30:27: [admin_zm.amxx] Login: "SM-Player<85><STEAM_0:0:688359655><>" kicked due to invalid password (account "Sm-Player") (address "89.40.166.109")
+L 08/25/2015 - 15:30:30: [adminchat.amxx] Chat: "uNicuL<80><STEAM_0:0:575450316><>" tsay "next mod"
+L 08/25/2015 - 15:37:08: [admincmd.amxx] Cmd: "uNicuL<80><STEAM_0:0:575450316><>" slay "Omega<82><STEAM_0:0:1373426510><>"
+L 08/25/2015 - 15:37:16: [adminchat.amxx] Chat: "uNicuL<80><STEAM_0:0:575450316><>" tsay "nu ataci"
+L 08/25/2015 - 15:37:35: [zm_vip_extra_buy_survnem.amxx] uNicuL a cumparat nemesis
+L 08/25/2015 - 15:47:12: -------- Mapchange to zm_heal_dust2 --------
+L 08/25/2015 - 15:47:13: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 15:59:18: [admincmd.amxx] Cmd: "uNicuL<95><STEAM_0:0:575450316><>" changelevel "zm_foda"
+L 08/25/2015 - 15:59:28: -------- Mapchange to zm_dust_world --------
+L 08/25/2015 - 15:59:30: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 15:59:36: -------- Mapchange to zm_heal_dust2 --------
+L 08/25/2015 - 15:59:36: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 16:00:01: [admincmd.amxx] Cmd: "uNicuL<1><STEAM_0:0:575450316><>" changelevel "zm_foda"
+L 08/25/2015 - 16:00:03: -------- Mapchange to zm_foda --------
+L 08/25/2015 - 16:00:04: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 16:09:51: [adminchat.amxx] Chat: "uNicuL<1><STEAM_0:0:575450316><>" tsay "dc iei ca oricum nu se pune la rank"
+L 08/25/2015 - 16:11:07: [admincmd.amxx] Kick: "uNicuL<1><STEAM_0:0:575450316><>" kick "SwiSSKillYTB<7><STEAM_0:1:100837872><>" (reason "")
+L 08/25/2015 - 16:12:46: [adminchat.amxx] Chat: "uNicuL<1><STEAM_0:0:575450316><>" tsay "NEXT MOD"
+L 08/25/2015 - 16:13:25: [adminchat.amxx] Chat: "uNicuL<1><STEAM_0:0:575450316><>" tsay "zm ataca sau slay"
+L 08/25/2015 - 16:14:29: [zm_vip_extra_buy_survnem.amxx] uNicuL a cumparat nemesis
+L 08/25/2015 - 16:26:23: [admincmd.amxx] Cmd: "uNicuL<1><STEAM_0:0:575450316><>" changelevel "zm_ice_attack3"
+L 08/25/2015 - 16:26:26: -------- Mapchange to zm_ice_attack3 --------
+L 08/25/2015 - 16:26:27: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 16:31:11: [zm_vip_extra_buy_survnem.amxx] uNicuL a cumparat nemesis
+L 08/25/2015 - 16:35:36: [admincmd.amxx] Cmd: "uNicuL<1><STEAM_0:0:575450316><>" slay "ZE=EVILZCS=RO [26]<10><STEAM_0:0:24068603><>"
+L 08/25/2015 - 16:42:35: [admincmd.amxx] Cmd: "uNicuL<1><STEAM_0:0:575450316><>" slay "SkYFoUL<12><STEAM_0:0:967902860><>"
+L 08/25/2015 - 16:42:42: [admincmd.amxx] Kick: "uNicuL<1><STEAM_0:0:575450316><>" kick "SkYFoUL<12><STEAM_0:0:967902860><>" (reason "")
+L 08/25/2015 - 16:43:05: [admincmd.amxx] Cmd: "uNicuL<1><STEAM_0:0:575450316><>" slay "SkYFoUL<14><STEAM_0:0:967902860><>"
+L 08/25/2015 - 16:43:33: [admincmd.amxx] Kick: "uNicuL<1><STEAM_0:0:575450316><>" kick "SkYFoUL<14><STEAM_0:0:967902860><>" (reason "")
+L 08/25/2015 - 16:56:38: [admincmd.amxx] Cmd: "uNicuL<1><STEAM_0:0:575450316><>" changelevel "zm_foda"
+L 08/25/2015 - 16:56:41: -------- Mapchange to zm_foda --------
+L 08/25/2015 - 16:56:41: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 16:59:37: [zm_vip_extra_buy_survnem.amxx] uNicuL a cumparat nemesis
+L 08/25/2015 - 17:01:56: [admincmd.amxx] Cmd: "uNicuL<1><STEAM_0:0:575450316><>" slay "Os<16><STEAM_0:0:1640738083><>"
+L 08/25/2015 - 17:04:20: [admincmd.amxx] Cmd: "uNicuL<1><STEAM_0:0:575450316><>" slay "Os<16><STEAM_0:0:1640738083><>"
+L 08/25/2015 - 17:17:40: -------- Mapchange to zm_snow_mix --------
+L 08/25/2015 - 17:17:42: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 17:30:43: [adminchat.amxx] Chat: "uNicuL<31><STEAM_0:0:575450316><>" tsay "ma potrivesc cu dana?"
+L 08/25/2015 - 17:33:05: [adminchat.amxx] Chat: "uNicuL<31><STEAM_0:0:575450316><>" tsay "dana iti dau parola de la nickul meu daca imi dai fb tau!!! :) :P am acces la moduri"
+L 08/25/2015 - 17:34:53: [adminchat.amxx] Chat: "uNicuL<31><STEAM_0:0:575450316><>" tsay "vrei sa o infiez"
+L 08/25/2015 - 17:34:57: [adminchat.amxx] Chat: "uNicuL<31><STEAM_0:0:575450316><>" tsay "am 17"
+L 08/25/2015 - 17:36:21: [adminchat.amxx] Chat: "uNicuL<31><STEAM_0:0:575450316><>" tsay ":))"
+L 08/25/2015 - 17:36:45: [adminchat.amxx] Chat: "uNicuL<31><STEAM_0:0:575450316><>" tsay "vezi dana mai pierdut"
+L 08/25/2015 - 17:40:21: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dana zimi nr tau!!!"
+L 08/25/2015 - 17:40:33: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dana zimi nr tau"
+L 08/25/2015 - 17:40:39: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dana"
+L 08/25/2015 - 17:40:44: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dana"
+L 08/25/2015 - 17:40:51: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dana "
+L 08/25/2015 - 17:40:59: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "nu"
+L 08/25/2015 - 17:42:03: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "Dana<30><STEAM_0:0:1256617457><>"
+L 08/25/2015 - 17:42:09: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "Dana<30><STEAM_0:0:1256617457><>"
+L 08/25/2015 - 17:42:12: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "Dana<30><STEAM_0:0:1256617457><>"
+L 08/25/2015 - 17:42:13: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "Dana<30><STEAM_0:0:1256617457><>"
+L 08/25/2015 - 17:42:13: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "Dana<30><STEAM_0:0:1256617457><>"
+L 08/25/2015 - 17:42:14: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "Dana<30><STEAM_0:0:1256617457><>"
+L 08/25/2015 - 17:42:15: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "Dana<30><STEAM_0:0:1256617457><>"
+L 08/25/2015 - 17:42:16: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "Dana<30><STEAM_0:0:1256617457><>"
+L 08/25/2015 - 17:42:17: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "Dana<30><STEAM_0:0:1256617457><>"
+L 08/25/2015 - 17:42:18: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "Dana<30><STEAM_0:0:1256617457><>"
+L 08/25/2015 - 17:42:19: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "Dana<30><STEAM_0:0:1256617457><>"
+L 08/25/2015 - 17:42:19: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "Dana<30><STEAM_0:0:1256617457><>"
+L 08/25/2015 - 17:42:20: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "Dana<30><STEAM_0:0:1256617457><>"
+L 08/25/2015 - 17:42:22: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "Dana<30><STEAM_0:0:1256617457><>"
+L 08/25/2015 - 17:42:23: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "Dana<30><STEAM_0:0:1256617457><>"
+L 08/25/2015 - 17:42:24: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "Dana<30><STEAM_0:0:1256617457><>"
+L 08/25/2015 - 17:42:25: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "Dana<30><STEAM_0:0:1256617457><>"
+L 08/25/2015 - 17:42:26: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "Dana<30><STEAM_0:0:1256617457><>"
+L 08/25/2015 - 17:42:26: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "Dana<30><STEAM_0:0:1256617457><>"
+L 08/25/2015 - 17:42:27: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "Dana<30><STEAM_0:0:1256617457><>"
+L 08/25/2015 - 17:42:28: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "Dana<30><STEAM_0:0:1256617457><>"
+L 08/25/2015 - 17:42:29: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "Dana<30><STEAM_0:0:1256617457><>"
+L 08/25/2015 - 17:42:30: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "Dana<30><STEAM_0:0:1256617457><>"
+L 08/25/2015 - 17:42:33: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "Dana<30><STEAM_0:0:1256617457><>"
+L 08/25/2015 - 17:43:05: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:43:07: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:43:08: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:43:08: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:43:09: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:43:10: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:43:11: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:43:12: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:43:13: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:43:14: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:43:14: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:43:15: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:44:06: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:44:07: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:44:08: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:44:08: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:44:09: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:44:09: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:44:10: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:44:11: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:44:12: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:44:13: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:44:15: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:44:16: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:44:17: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:44:18: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:44:20: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:44:23: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:44:24: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:44:25: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:44:27: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:44:27: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:44:28: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:44:30: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:44:31: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:45:24: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dana te iubesc"
+L 08/25/2015 - 17:46:24: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dana te iubesc"
+L 08/25/2015 - 17:46:24: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dana te iubesc"
+L 08/25/2015 - 17:46:25: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dana te iubesc"
+L 08/25/2015 - 17:46:27: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dana te iubesc"
+L 08/25/2015 - 17:46:28: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dana te iubesc"
+L 08/25/2015 - 17:46:29: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dana te iubesc"
+L 08/25/2015 - 17:46:30: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dana te iubesc"
+L 08/25/2015 - 17:46:31: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dana te iubesc"
+L 08/25/2015 - 17:46:31: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dana te iubesc"
+L 08/25/2015 - 17:46:31: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dana te iubesc"
+L 08/25/2015 - 17:46:31: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dana te iubesc"
+L 08/25/2015 - 17:46:32: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dana te iubesc"
+L 08/25/2015 - 17:46:32: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dana te iubesc"
+L 08/25/2015 - 17:46:32: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dana te iubesc"
+L 08/25/2015 - 17:46:32: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dana te iubesc"
+L 08/25/2015 - 17:46:32: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dana te iubesc"
+L 08/25/2015 - 17:46:33: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dana te iubesc"
+L 08/25/2015 - 17:46:33: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dana te iubesc"
+L 08/25/2015 - 17:46:33: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dana te iubesc"
+L 08/25/2015 - 17:46:33: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dana te iubesc"
+L 08/25/2015 - 17:46:33: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dana te iubesc"
+L 08/25/2015 - 17:46:34: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dana te iubesc"
+L 08/25/2015 - 17:46:34: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dana te iubesc"
+L 08/25/2015 - 17:46:34: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dana te iubesc"
+L 08/25/2015 - 17:46:34: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dana te iubesc"
+L 08/25/2015 - 17:46:34: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dana te iubesc"
+L 08/25/2015 - 17:47:55: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:47:56: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:47:56: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:47:57: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:47:57: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:47:57: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:47:57: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:47:58: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:47:58: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:47:58: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:47:59: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:47:59: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:47:59: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:47:59: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:00: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:00: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:00: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:01: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:01: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:01: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:01: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:02: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:02: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:02: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:02: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:03: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:03: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:03: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:03: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:03: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:04: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:04: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:04: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:04: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:05: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:05: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:05: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:05: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:05: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:06: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:06: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:06: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:06: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:06: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:07: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:07: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:07: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:07: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:08: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:08: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:08: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:08: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:08: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:09: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:09: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:09: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:09: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:10: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:10: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:10: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:10: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:11: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:11: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:11: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:11: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:12: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:12: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:12: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:12: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:13: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:13: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:13: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:13: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:14: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:14: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:14: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:14: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:14: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:14: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:15: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:15: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:15: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:15: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:15: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:15: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:16: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:16: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:16: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:16: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:16: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:17: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:17: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:17: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:17: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:17: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:18: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:18: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:18: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:18: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:18: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:19: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:19: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:19: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:19: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:19: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:19: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:20: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:21: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:22: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:22: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:22: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:23: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:23: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:23: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:23: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:24: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:24: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:24: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:25: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:25: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:25: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:25: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:26: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:26: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:26: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:26: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:26: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:26: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:27: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:27: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:27: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:27: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:27: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:48:28: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:28: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:28: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:28: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:28: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:28: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:29: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:29: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:29: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:29: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:48:29: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:48:36: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slay "Dana<30><STEAM_0:0:1256617457><>"
+L 08/25/2015 - 17:49:09: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:49:10: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:49:11: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:49:12: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:49:12: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:49:15: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:49:16: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:49:16: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:49:17: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:49:18: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:49:18: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:49:19: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:49:20: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:49:21: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" slap with 0 damage "btn^andrey<29><STEAM_0:0:383404615><>"
+L 08/25/2015 - 17:49:27: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:27: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:28: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:28: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:28: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:28: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:28: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:28: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:29: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:29: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:29: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:29: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:29: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:30: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:30: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:30: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:30: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:30: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:31: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:31: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:31: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:31: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:31: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:31: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:32: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:32: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:32: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:32: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:32: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:32: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:33: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:33: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:33: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:33: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:33: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:34: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:34: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:34: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:34: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:34: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:35: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:35: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:35: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:35: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:36: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:36: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:36: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:36: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:36: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:37: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:49:37: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:49:37: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:49:37: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:49:38: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:49:38: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:49:38: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:49:38: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:49:38: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:49:39: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:49:39: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:49:39: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:39: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:39: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:40: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:40: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:40: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:40: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:40: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:41: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:41: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:41: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:41: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:41: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:41: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:42: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:42: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:42: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:42: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:42: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:43: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:43: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:43: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:43: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:43: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:44: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:44: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:44: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:44: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:44: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:45: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:45: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:45: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:45: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:45: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:46: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:46: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:46: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:46: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:47: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:47: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:47: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:47: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:47: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:48: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:48: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:48: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:48: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:48: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:49: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:49: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:49: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:49: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:49: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:50: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " orce ai face eu tot te iubesc"
+L 08/25/2015 - 17:49:50: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:49:50: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dar tot te iubesc"
+L 08/25/2015 - 17:49:51: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:51: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:51: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:51: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:51: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:52: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:52: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:52: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:52: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:53: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:53: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:53: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:53: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:53: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:54: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:54: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:54: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:54: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:54: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:55: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:55: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:55: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:49:55: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:50:02: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:50:02: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:50:02: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:50:03: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:50:03: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:50:03: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:50:03: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:50:03: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:50:04: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:50:04: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:50:04: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:50:04: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:50:04: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:50:05: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:50:05: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:50:05: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:50:05: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:50:05: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:50:06: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:50:06: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:50:06: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dc dana dc?"
+L 08/25/2015 - 17:50:16: [admincmd.amxx] Kick: "uNicuL<32><STEAM_0:0:575450316><>" kick "Dana<30><STEAM_0:0:1256617457><>" (reason "")
+L 08/25/2015 - 17:51:22: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:22: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:22: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:22: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:22: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:22: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:23: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:23: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:23: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:23: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:23: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:23: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:24: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:24: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:24: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:24: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:25: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:25: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:26: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:26: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:27: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:27: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:27: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:28: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:29: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:33: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:33: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:34: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:34: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:35: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:35: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:36: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:36: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:53: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "lasa vrajala"
+L 08/25/2015 - 17:51:56: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:56: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:56: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:56: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:56: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:57: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:57: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:57: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:57: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:57: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:51:57: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:52:06: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "facebook"
+L 08/25/2015 - 17:52:18: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "facebook-ul tau atunci"
+L 08/25/2015 - 17:52:31: [zm_vip_extra_buy_survnem.amxx] uNicuL a cumparat nemesis
+L 08/25/2015 - 17:52:53: [admincmd.amxx] Cmd: "uNicuL<32><STEAM_0:0:575450316><>" changelevel "zm_foda"
+L 08/25/2015 - 17:52:56: -------- Mapchange to zm_foda --------
+L 08/25/2015 - 17:52:58: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 17:53:19: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay " dac imi dai nr tau de tel iti dau parola de la nickul meu"
+L 08/25/2015 - 17:54:05: [zm_vip_extra_buy_survnem.amxx] uNicuL a cumparat nemesis
+L 08/25/2015 - 17:59:59: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "dana la ce liceu esti?"
+L 08/25/2015 - 18:02:24: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "iti dau nr meu ma suni?"
+L 08/25/2015 - 18:02:32: [adminchat.amxx] Chat: "uNicuL<32><STEAM_0:0:575450316><>" tsay "????"
+L 08/25/2015 - 18:21:24: -------- Mapchange to zm_westwood --------
+L 08/25/2015 - 18:21:25: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 19:12:16: [admincmd.amxx] Cmd: "uNicuL<47><STEAM_0:0:575450316><>" changelevel "zm_foda"
+L 08/25/2015 - 19:12:19: -------- Mapchange to zm_foda --------
+L 08/25/2015 - 19:12:20: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 19:12:42: [admincmd.amxx] Cmd: "uNicuL<47><STEAM_0:0:575450316><>" changelevel "zm_foda"
+L 08/25/2015 - 19:12:45: -------- Mapchange to zm_foda --------
+L 08/25/2015 - 19:12:45: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 19:13:01: [admincmd.amxx] Cmd: "uNicuL<47><STEAM_0:0:575450316><>" changelevel "zm_foda"
+L 08/25/2015 - 19:13:04: -------- Mapchange to zm_foda --------
+L 08/25/2015 - 19:13:04: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 19:15:15: [zm_vip_extra_buy_survnem.amxx] uNicuL a cumparat nemesis
+L 08/25/2015 - 19:17:20: [admincmd.amxx] Cmd: "uNicuL<47><STEAM_0:0:575450316><>" slay "katalin<50><STEAM_0:0:399573113><>"
+L 08/25/2015 - 19:22:36: [adminchat.amxx] Chat: "uNicuL<47><STEAM_0:0:575450316><>" tsay "r3"
+L 08/25/2015 - 19:23:32: [zm_vip_extra_buy_survnem.amxx] Madalin a cumparat nemesis
+L 08/25/2015 - 19:23:41: [admincmd.amxx] Cmd: "uNicuL<47><STEAM_0:0:575450316><>" slay "Madalin<52><STEAM_0:0:270376980><>"
+L 08/25/2015 - 19:23:55: [adminchat.amxx] Chat: "uNicuL<47><STEAM_0:0:575450316><>" tsay "tiam zis peste 3"
+L 08/25/2015 - 19:24:02: [adminchat.amxx] Chat: "uNicuL<47><STEAM_0:0:575450316><>" tsay "nu bagi mod dupa mod"
+L 08/25/2015 - 19:44:55: -------- Mapchange to zm_666_brick --------
+L 08/25/2015 - 19:44:56: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 19:45:11: [admincmd.amxx] Cmd: "uNicuL<47><STEAM_0:0:575450316><>" changelevel "zm_foda"
+L 08/25/2015 - 19:45:13: -------- Mapchange to zm_foda --------
+L 08/25/2015 - 19:45:14: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 19:47:26: [zm_vip_extra_buy_survnem.amxx] uNicuL a cumparat nemesis
+L 08/25/2015 - 19:52:29: [admin_zm.amxx] Login: "A_L_E_X<59><STEAM_0:0:1245423730><>" kicked due to invalid password (account "A_L_E_X") (address "5.14.199.57")
+L 08/25/2015 - 19:55:20: [admincmd.amxx] Cmd: "uNicuL<47><STEAM_0:0:575450316><>" slay "katalin<50><STEAM_0:0:399573113><>"
+L 08/25/2015 - 19:55:47: [admincmd.amxx] Cmd: "uNicuL<47><STEAM_0:0:575450316><>" slay "katalin<50><STEAM_0:0:399573113><>"
+L 08/25/2015 - 19:55:55: [admincmd.amxx] Cmd: "uNicuL<47><STEAM_0:0:575450316><>" slay "katalin<50><STEAM_0:0:399573113><>"
+L 08/25/2015 - 19:56:04: [admincmd.amxx] Kick: "uNicuL<47><STEAM_0:0:575450316><>" kick "katalin<50><STEAM_0:0:399573113><>" (reason "")
+L 08/25/2015 - 20:05:09: [admincmd.amxx] Cmd: "uNicuL<47><STEAM_0:0:575450316><>" slay "katalin<63><STEAM_0:0:399573113><>"
+L 08/25/2015 - 20:05:15: [admincmd.amxx] Cmd: "uNicuL<47><STEAM_0:0:575450316><>" slay "katalin<63><STEAM_0:0:399573113><>"
+L 08/25/2015 - 20:06:22: [admincmd.amxx] Kick: "uNicuL<47><STEAM_0:0:575450316><>" kick "katalin<63><STEAM_0:0:399573113><>" (reason "")
+L 08/25/2015 - 20:07:02: [adminchat.amxx] Chat: "uNicuL<47><STEAM_0:0:575450316><>" tsay "pai tu pui lm pe mine"
+L 08/25/2015 - 20:13:39: [admincmd.amxx] Cmd: "uNicuL<47><STEAM_0:0:575450316><>" changelevel "zm_ice_attack3"
+L 08/25/2015 - 20:13:49: -------- Mapchange to zm_dust_world --------
+L 08/25/2015 - 20:13:50: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 20:13:56: -------- Mapchange to zm_fortuna --------
+L 08/25/2015 - 20:13:57: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 20:16:11: [admincmd.amxx] Cmd: "uNicuL<5><STEAM_0:0:575450316><>" changelevel "zm_ice_attack3"
+L 08/25/2015 - 20:16:14: -------- Mapchange to zm_ice_attack3 --------
+L 08/25/2015 - 20:16:14: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 20:17:57: [zm_vip_extra_buy_survnem.amxx] uNicuL a cumparat nemesis
+L 08/25/2015 - 20:46:50: -------- Mapchange to zm_dust_jasionka --------
+L 08/25/2015 - 20:46:52: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 21:07:07: [adminchat.amxx] Chat: "no slay<30><STEAM_0:0:1985894293><>" tsay "sall all"
+L 08/25/2015 - 21:11:23: [adminchat.amxx] Chat: "no slay<30><STEAM_0:0:1985894293><>" tsay "next mod a"
+L 08/25/2015 - 21:11:31: [adminchat.amxx] Chat: "no slay<30><STEAM_0:0:1985894293><>" tsay "assasin vs sniper"
+L 08/25/2015 - 21:18:49: -------- Mapchange to zm_ceronUA --------
+L 08/25/2015 - 21:18:50: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 21:25:07: [adminchat.amxx] Chat: "no slay<45><STEAM_0:0:1985894293><>" tsay "baieti eu o sa fac un video daca vreti sa va uitati il gasiti pe youtube cu numele zm.infectati.ro"
+L 08/25/2015 - 21:49:00: -------- Mapchange to zm_ilc_resident_evil2 --------
+L 08/25/2015 - 21:49:02: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 22:17:13: -------- Mapchange to zm_reveille --------
+L 08/25/2015 - 22:17:15: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 22:26:27: [admin_zm.amxx] Login: "@Lex<65><STEAM_0:0:1245423730><>" kicked due to invalid password (account "@leX") (address "5.14.199.57")
+L 08/25/2015 - 22:45:26: -------- Mapchange to zm_house_2011 --------
+L 08/25/2015 - 22:45:27: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 22:49:24: [admin_zm.amxx] Login: "KinG^Of^Legend<69><STEAM_0:0:343639874><>" kicked due to invalid password (account "KinG^Of^Legend") (address "91.90.121.78")
+L 08/25/2015 - 23:13:40: -------- Mapchange to zm_newzombie --------
+L 08/25/2015 - 23:13:41: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 08/25/2015 - 23:41:52: -------- Mapchange to zm_3rooms --------
+L 08/25/2015 - 23:41:53: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt

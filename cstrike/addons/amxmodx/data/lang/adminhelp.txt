@@ -1,0 +1,17 @@
+[en]
+HELP_COMS = Ajutor AMX Mod X: Comenzi
+HELP_ENTRIES = Intrari %d - %d din %d
+HELP_USE_MORE = Scrie 'amx_help %d' pentru mai mult
+HELP_USE_BEGIN = Scrie 'amx_help 1' pentru inceput
+TYPE_HELP = Scrie 'amx_help' in consola pentru afisare lista comenzilor
+TIME_INFO_1 = Timp Ramas: %d:%02d. Urmatoarea Harta: %s
+TIME_INFO_2 = Nici o Limita a Timpului. Urmatoarea Harta: %s
+
+[ro]
+HELP_COMS = Ajutor AMX Mod X: Comenzi
+HELP_ENTRIES = Intrari %d - %d din %d
+HELP_USE_MORE = Scrie 'amx_help %d' pentru mai mult
+HELP_USE_BEGIN = Scrie 'amx_help 1' pentru inceput
+TYPE_HELP = Scrie 'amx_help' in consola pentru afisare lista comenzilor
+TIME_INFO_1 = Timp Ramas: %d:%02d. Urmatoarea Harta: %s
+TIME_INFO_2 = Nici o Limita a Timpului. Urmatoarea Harta: %s

@@ -1,0 +1,21 @@
+[en]
+LANG_NOT_EXISTS = Acest limbaj nu exista
+PERSO_LANG = Limbaj Personal
+LANG_MENU = Meniu Limbaj
+SERVER_LANG = Limbaj Server
+SAVE_LANG = Salveaza Limbaj
+SET_LANG_SERVER = Limbajul server-ului a fost setat pe "%s"
+SET_LANG_USER = Limbajul tau a fost setat pe "%s"
+TYPE_LANGMENU = Scrie 'amx_langmenu' in consola pentru afisarea unui meniu cu limbaje
+LANG_MENU_DISABLED = Meniu limbaj dezactivat.
+
+[ro]
+LANG_NOT_EXISTS = Acest limbaj nu exista
+PERSO_LANG = Limbaj Personal
+LANG_MENU = Meniu Limbaj
+SERVER_LANG = Limbaj Server
+SAVE_LANG = Salveaza Limbaj
+SET_LANG_SERVER = Limbajul server-ului a fost setat pe "%s"
+SET_LANG_USER = Limbajul tau a fost setat pe "%s"
+TYPE_LANGMENU = Scrie 'amx_langmenu' in consola pentru afisarea unui meniu cu limbaje
+LANG_MENU_DISABLED = Meniu limbaj dezactivat.

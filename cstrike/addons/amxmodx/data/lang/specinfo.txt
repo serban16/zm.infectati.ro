@@ -1,0 +1,27 @@
+[en]
+SPECTATING =Il urmareste pe
+JUMP = jump
+DUCK = duck
+LAME =   -
+SPEC_LIST_DISABLED = Spectator list disabled.
+SPEC_LIST_ENABLED = Spectator list enabled.
+SPEC_KEYS_DISABLED = Spectator keys disabled.
+SPEC_KEYS_ENABLED = Spectator keys enabled.
+SPEC_OWNKEYS_DISABLED = View own keys disabled.
+SPEC_OWNKEYS_ENABLED = View own keys enabled.
+SPEC_HIDE_DISABLED = Hidden mode disabled.
+SPEC_HIDE_ENABLED = Hidden mode enabled.
+
+[ro]
+SPECTATING =Il urmareste pe
+JUMP = jump
+DUCK = duck
+LAME =   -
+SPEC_LIST_DISABLED = Spectator list disabled.
+SPEC_LIST_ENABLED = Spectator list enabled.
+SPEC_KEYS_DISABLED = Spectator keys disabled.
+SPEC_KEYS_ENABLED = Spectator keys enabled.
+SPEC_OWNKEYS_DISABLED = View own keys disabled.
+SPEC_OWNKEYS_ENABLED = View own keys enabled.
+SPEC_HIDE_DISABLED = Hidden mode disabled.
+SPEC_HIDE_ENABLED = Hidden mode enabled.

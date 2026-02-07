@@ -1,0 +1,23 @@
+Ten folder mam mieæ prawa CHMOD 777
+
+
+banned@cfg.ini
+	Baza de date
+field.txt
+	Przechowuje pole
+last.txt
+	ID-ul de la ultimul ban
+print.txt
+	Cand jucatorul intra pe server si are ban ii vor aparea mesajele din print.txt (consola)
+print2.txt
+	Mesajele care apar cand primeste ban jucatorul (consola)
+
+Format:
+
+[BAN_REASON] - motivul banari
+[BAN_TIME] - timpul banari (0 = Perm)
+[PLAYER_NAME] - numele jucatorului banat
+[PLAYER_AUTHID] - authid-ul jucatorului banat
+[PLAYER_IP] - ip-ul jucatorului banat
+[ADMIN_NAME] - numele adminului care da ban
+

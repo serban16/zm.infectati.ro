@@ -1,0 +1,5 @@
+[en]
+STOP_FLOOD = Nu mai flooda server-ul!
+
+[ro]
+STOP_FLOOD = Nu mai flooda server-ul!

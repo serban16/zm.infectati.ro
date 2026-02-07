@@ -1,0 +1,15 @@
+[en]
+PURCHASE_NG = [ZP] Ai cumparat o Arma cu Gheata!
+NOTICE_NG = %s a cumparat o Arma cu Gheata!
+ENEMY_FROST_NG = [Arma cu Gheata] Ai inghetat un Zombie!
+NEMESIS_INMUNE_NG = [Arma cu Gheata] Nemesis este imun!
+ONLY_NG = [Arma cu Gheata] Efectul functioneaza numai daca ai Arma cu Gheata!
+NG = [Arma cu Gheata] Efekt zamrozenia dziala tylko z Nitrogen Galil! 
+
+[ro]
+PURCHASE_NG = [ZP] Ai cumparat o Arma cu Gheata!
+NOTICE_NG = %s a cumparat o Arma cu Gheata!
+ENEMY_FROST_NG = [Arma cu Gheata] Ai inghetat un Zombie!
+NEMESIS_INMUNE_NG = [Arma cu Gheata] Nemesis este imun!
+ONLY_NG = [Arma cu Gheata] Efectul de inghet functioneaza numai daca tragi cu Arma cu Gheata!
+NG = [Arma cu Gheata] Efekt zamrozenia dziala tylko z Nitrogen Galil! 

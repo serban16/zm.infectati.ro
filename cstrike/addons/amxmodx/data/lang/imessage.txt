@@ -1,0 +1,5 @@
+[en]
+INF_REACH = Limita mesajelor informative a fost atinsa!
+
+[ro]
+INF_REACH = Limita mesajelor informative a fost atinsa!

@@ -1,0 +1,50 @@
+[en]
+DEFAULT_REASON = Fara motiv
+
+INFO_BANNED = Jucatorul a fost banat
+INFO_UNBANNED = Jucatorul %s a primit unban
+INFO_BAD_CODE = Code gresit, cauta mai bine in lista
+INFO_NO_BANS = Nu sunt banuri
+
+INFO_HINT1 = Cn numeroteaza numerele (ordonare)
+INFO_HINT2 = code (!) trebuie sa folositi pentru
+INFO_HEADER =  Cn | code | nume | admin | motiv | data banari | data unbanari
+INFO_FOOTER = Foloseste '%s %d', pentru a obtine mai mult
+INFO_DURING_KICK = Ai fost banat. Verifica mesajele din consola!
+INFO_HUD = Jucatorul %s a fost banat^nde adminul %s^n%s^nMotivul: %s
+INFO_CHOOSE_PLAYER = Primul jucator ales
+
+WORD_WARNING = ATENTIE
+WORD_SERVER = Server
+WORD_NEVER = Niciodata
+WORD_REASON = Motiv
+WORD_FROM = De la
+WORD_EXPIRE = Expira
+WORD_RETURN = Intoarcere
+WORD_OWN = Introdu valoarea/textul tau
+
+
+[ro]
+DEFAULT_REASON = Fara motiv
+
+INFO_BANNED = Jucatorul a fost banat
+INFO_UNBANNED = Jucatorul %s a primit unban
+INFO_BAD_CODE = Code gresit, cauta mai bine in lista
+INFO_NO_BANS = Nu sunt banuri
+
+INFO_HINT1 = Cn numeroteaza numerele (ordonare)
+INFO_HINT2 = code (!) trebuie sa folositi pentru
+INFO_HEADER =  Cn | code | nume | admin | motiv | data banari | data unbanari
+INFO_FOOTER = Foloseste '%s %d', pentru a obtine mai mult
+INFO_DURING_KICK = Ai fost banat. Verifica mesajele din consola!
+INFO_HUD = Jucatorul %s a fost banat^nde adminul %s^n%s^nMotivul: %s
+INFO_CHOOSE_PLAYER = Primul jucator ales
+
+WORD_WARNING = ATENTIE
+WORD_SERVER = Server
+WORD_NEVER = Niciodata
+WORD_REASON = Motiv
+WORD_FROM = De la
+WORD_EXPIRE = Expira
+WORD_RETURN = Intoarcere
+WORD_OWN = Introdu valoarea/textul tau

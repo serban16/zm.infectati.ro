@@ -1,0 +1,47 @@
+﻿[ru]
+BUY_XM1014 = Вы купили
+GXM-1014 = Золотой xm1014
+
+[en]
+BUY_XM1014 = Ai cumparat
+GXM-1014 = xm1014 auriu 
+
+[de]
+BUY_XM1014 = Du kauftest eine
+GXM-1014 = Goldene xm1014
+
+[pl]
+BUY_XM1014 = Kupiles
+GXM-1014 = Zlote xm1014
+
+[bg]
+BUY_XM1014 = Vie zakupihte
+GXM-1014 = Zlaten xm1014
+
+[es]
+BUY_XM1014 = tu compraste
+GXM-1014 = xm1014 dorada 
+
+[fr]
+BUY_XM1014 = Tu as achete
+GXM-1014 =  xm1014 Doree
+
+[nl]
+BUY_XM1014 = Je kocht
+GXM-1014 = gouden xm1014
+
+[cn]
+BUY_XM1014 = 你买了一把
+GXM-1014 = 黄金 xm1014
+
+[tc]
+BUY_XM1014 = 你買了一把
+GXM-1014 = 黃金 xm1014
+
+[ro]
+BUY_XM1014 = Ai cumparat
+GXM-1014 = xm1014 auriu 
+
+[se]
+BUY_XM1014 = du k'o'pte
+GXM-1014 = Guld xm1014

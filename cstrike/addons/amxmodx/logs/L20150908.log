@@ -1,0 +1,198 @@
+L 09/08/2015 - 00:06:56: -------- Mapchange to zm_city_final --------
+L 09/08/2015 - 00:06:57: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 00:35:08: -------- Mapchange to zm_brambor --------
+L 09/08/2015 - 00:35:09: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 01:03:20: -------- Mapchange to zm_inferno --------
+L 09/08/2015 - 01:03:20: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 01:31:32: -------- Mapchange to zm_hewitt_house --------
+L 09/08/2015 - 01:31:32: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 01:59:44: -------- Mapchange to zm_five --------
+L 09/08/2015 - 01:59:44: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 02:27:55: -------- Mapchange to zm_restart_v3 --------
+L 09/08/2015 - 02:27:56: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 02:56:07: -------- Mapchange to zm_3rooms --------
+L 09/08/2015 - 02:56:07: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 03:24:18: -------- Mapchange to zm_chatoyant --------
+L 09/08/2015 - 03:24:19: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 03:52:30: -------- Mapchange to zm_lost_place --------
+L 09/08/2015 - 03:52:30: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 04:20:41: -------- Mapchange to zm_zod_aztec --------
+L 09/08/2015 - 04:20:42: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 04:48:53: -------- Mapchange to zm_death_alley --------
+L 09/08/2015 - 04:48:53: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 05:17:05: -------- Mapchange to zm_brambor --------
+L 09/08/2015 - 05:17:05: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 05:45:16: -------- Mapchange to zm_army --------
+L 09/08/2015 - 05:45:17: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 06:13:28: -------- Mapchange to zm_westwood_click21 --------
+L 09/08/2015 - 06:13:28: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 06:41:39: -------- Mapchange to zm_3rooms --------
+L 09/08/2015 - 06:41:40: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 07:09:53: -------- Mapchange to zm_castle_siege2 --------
+L 09/08/2015 - 07:09:56: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 07:38:09: -------- Mapchange to zm_chatoyant --------
+L 09/08/2015 - 07:38:28: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 08:06:40: -------- Mapchange to zm_infect2_click21 --------
+L 09/08/2015 - 08:06:41: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 08:34:53: -------- Mapchange to zm_aztec_temple --------
+L 09/08/2015 - 08:34:54: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 09:03:05: -------- Mapchange to zm_brambor --------
+L 09/08/2015 - 09:03:07: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 09:06:08: [admincmd.amxx] Cmd: "Dragos^^<30><STEAM_0:0:2145337884><>" changelevel "zm_aztec_defense"
+L 09/08/2015 - 09:06:10: -------- Mapchange to zm_aztec_defense --------
+L 09/08/2015 - 09:06:10: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 09:06:51: [admincmd.amxx] ExtendMap: "Dragos^^<30><STEAM_0:0:2145337884><>" extended map "zm_aztec_defense" for 121999999 minutes.
+L 09/08/2015 - 09:07:05: -------- Mapchange to zm_aztec_defense --------
+L 09/08/2015 - 09:07:06: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 09:08:07: [admincmd.amxx] ExtendMap: "Dragos^^<30><STEAM_0:0:2145337884><>" extended map "zm_aztec_defense" for 9999 minutes.
+L 09/08/2015 - 09:15:16: [adminchat.amxx] Chat: "Dragos^^<30><STEAM_0:0:2145337884><>" tsay "ba"
+L 09/08/2015 - 09:16:01: [adminchat.amxx] Chat: "Dragos^^<30><STEAM_0:0:2145337884><>" tsay "ba imi dai nr tau de tel sa te sun cand sa intri pe svr pt ca eu ma ocup cu svr?"
+L 09/08/2015 - 10:08:18: -------- Mapchange to zm_dust2009 --------
+L 09/08/2015 - 10:08:19: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 10:23:58: -------- Mapchange to zm_army --------
+L 09/08/2015 - 10:23:58: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 10:36:54: [admin_zm.amxx] Login: "Razvan$$$<45><STEAM_0:0:2145337884><>" kicked due to invalid password (account "Razvan$$$") (address "79.114.83.143")
+L 09/08/2015 - 10:53:18: -------- Mapchange to zm_dust_world --------
+L 09/08/2015 - 10:53:19: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 10:53:26: -------- Mapchange to zm_fortuna --------
+L 09/08/2015 - 10:53:26: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 11:38:44: -------- Mapchange to zm_303 --------
+L 09/08/2015 - 11:38:45: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 11:59:47: [admincmd.amxx] Cmd: "ZM.CLOUD-CENTER.RO<0><><>" changelevel "zm_fortuna"
+L 09/08/2015 - 11:59:49: -------- Mapchange to zm_fortuna --------
+L 09/08/2015 - 11:59:49: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 11:59:50: [admincmd.amxx] Cmd: "ZM.CLOUD-CENTER.RO<0><><>" changelevel "zm_fortuna"
+L 09/08/2015 - 11:59:50: [admincmd.amxx] Cmd: "ZM.CLOUD-CENTER.RO<0><><>" changelevel "zm_fortuna"
+L 09/08/2015 - 11:59:50: [admincmd.amxx] Cmd: "ZM.CLOUD-CENTER.RO<0><><>" changelevel "zm_fortuna"
+L 09/08/2015 - 11:59:52: -------- Mapchange to zm_fortuna --------
+L 09/08/2015 - 11:59:52: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 12:33:48: -------- Mapchange to zm_dust_jasionka --------
+L 09/08/2015 - 12:33:50: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 12:44:42: [admincmd.amxx] Cmd: "Dragos^^<58><STEAM_0:0:2145337884><>" changelevel "zm_aztec_defense"
+L 09/08/2015 - 12:44:45: -------- Mapchange to zm_aztec_defense --------
+L 09/08/2015 - 12:44:47: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 12:45:22: [admincmd.amxx] ExtendMap: "Dragos^^<58><STEAM_0:0:2145337884><>" extended map "zm_aztec_defense" for 999999 minutes.
+L 09/08/2015 - 13:39:48: -------- Mapchange to zm_foda --------
+L 09/08/2015 - 13:39:49: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 13:45:29: [admincmd.amxx] Cmd: "Dragos^^<80><STEAM_0:0:2145337884><>" changelevel "zm_aztec_defense"
+L 09/08/2015 - 13:45:31: -------- Mapchange to zm_aztec_defense --------
+L 09/08/2015 - 13:45:32: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 13:53:01: [zm_vip_extra_buy_survnem.amxx] [KeNt]*ViDcanNN a cumparat nemesis
+L 09/08/2015 - 14:17:01: -------- Mapchange to zm_dust_world --------
+L 09/08/2015 - 14:17:02: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 14:17:08: -------- Mapchange to zm_dust2snow_2011 --------
+L 09/08/2015 - 14:17:09: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 14:20:24: [admin_zm.amxx] Login: "Razvan$$$<13><STEAM_0:0:383404615><>" kicked due to invalid password (account "Razvan$$$") (address "109.98.161.192")
+L 09/08/2015 - 14:21:07: [admin_zm.amxx] Login: "Razvan$$$<14><STEAM_0:0:383404615><>" kicked due to invalid password (account "Razvan$$$") (address "109.98.161.192")
+L 09/08/2015 - 14:22:57: [admin_zm.amxx] Login: "Razvan$$$<15><STEAM_0:0:383404615><>" kicked due to invalid password (account "Razvan$$$") (address "109.98.161.192")
+L 09/08/2015 - 14:24:58: [admin_zm.amxx] Login: "Razvan$$$<17><STEAM_0:0:383404615><>" kicked due to invalid password (account "Razvan$$$") (address "109.98.161.192")
+L 09/08/2015 - 14:36:29: [admin_zm.amxx] Login: "Razvan$$$<22><STEAM_0:0:383404615><>" kicked due to invalid password (account "Razvan$$$") (address "109.98.161.192")
+L 09/08/2015 - 14:37:15: [adminchat.amxx] Chat: "no slay<18><STEAM_0:0:1985894293><>" chat " pentru ca ala numi mai da mini adminu"
+L 09/08/2015 - 14:42:13: [adminchat.amxx] Chat: "Dragos^^<20><STEAM_0:0:1034167257><>" tsay "nextmod"
+L 09/08/2015 - 14:47:16: [adminchat.amxx] Chat: "no slay<24><STEAM_0:0:1985894293><>" chat " pa"
+L 09/08/2015 - 14:47:52: -------- Mapchange to zm_aztec_temple --------
+L 09/08/2015 - 14:47:54: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 14:50:55: [admincmd.amxx] Cmd: "Dragos^^<29><STEAM_0:0:1034167257><>" changelevel "zm_ice_attack3"
+L 09/08/2015 - 14:50:58: -------- Mapchange to zm_ice_attack3 --------
+L 09/08/2015 - 14:50:58: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 14:52:36: [admin_zm.amxx] Login: "Razvan$$$<37><STEAM_0:0:383404615><>" kicked due to invalid password (account "Razvan$$$") (address "109.98.161.192")
+L 09/08/2015 - 14:53:48: [admin_zm.amxx] Login: "SM-Player<39><STEAM_0:0:1985894293><>" kicked due to invalid password (account "Sm-Player") (address "92.80.235.145")
+L 09/08/2015 - 15:10:28: [admin_zm.amxx] Login: "no slay<62><STEAM_0:0:1985894293><>" kicked due to invalid password (account "no slay") (address "92.80.235.145")
+L 09/08/2015 - 15:10:57: [admin_zm.amxx] Login: "Dragos<61><STEAM_0:0:2145337884><>" kicked due to invalid password (account "Dragos") (address "79.118.4.181")
+L 09/08/2015 - 15:11:03: [admin_zm.amxx] Login: "GIGEL<65><STEAM_0:0:1034167257><>" kicked due to invalid password (account "gigel") (address "86.125.236.15")
+L 09/08/2015 - 15:11:12: [admin_zm.amxx] Login: "no slay<64><STEAM_0:0:1985894293><>" kicked due to invalid password (account "no slay") (address "92.80.235.145")
+L 09/08/2015 - 15:23:12: -------- Mapchange to zm_aztec_mini --------
+L 09/08/2015 - 15:23:12: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 15:26:33: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "no slay<72><STEAM_0:0:1985894293><>" (team "TERRORIST")
+L 09/08/2015 - 15:26:54: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "no slay<72><STEAM_0:0:1985894293><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:03: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "no slay<72><STEAM_0:0:1985894293><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:04: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "no slay<72><STEAM_0:0:1985894293><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:07: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "bujor<71><STEAM_0:0:2122164373><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:08: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "no slay<72><STEAM_0:0:1985894293><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:08: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "bujor<71><STEAM_0:0:2122164373><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:09: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "no slay<72><STEAM_0:0:1985894293><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:09: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "no slay<72><STEAM_0:0:1985894293><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:09: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "bujor<71><STEAM_0:0:2122164373><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:10: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "bujor<71><STEAM_0:0:2122164373><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:10: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "bujor<71><STEAM_0:0:2122164373><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:10: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "no slay<72><STEAM_0:0:1985894293><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:11: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "no slay<72><STEAM_0:0:1985894293><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:11: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "bujor<71><STEAM_0:0:2122164373><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:11: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "no slay<72><STEAM_0:0:1985894293><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:12: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "bujor<71><STEAM_0:0:2122164373><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:12: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "bujor<71><STEAM_0:0:2122164373><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:12: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "bujor<71><STEAM_0:0:2122164373><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:13: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "no slay<72><STEAM_0:0:1985894293><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:13: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "bujor<71><STEAM_0:0:2122164373><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:13: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "no slay<72><STEAM_0:0:1985894293><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:13: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "bujor<71><STEAM_0:0:2122164373><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:13: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "bujor<71><STEAM_0:0:2122164373><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:14: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "no slay<72><STEAM_0:0:1985894293><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:14: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "no slay<72><STEAM_0:0:1985894293><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:15: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "no slay<72><STEAM_0:0:1985894293><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:15: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "bujor<71><STEAM_0:0:2122164373><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:15: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "no slay<72><STEAM_0:0:1985894293><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:15: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "bujor<71><STEAM_0:0:2122164373><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:15: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "no slay<72><STEAM_0:0:1985894293><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:16: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "no slay<72><STEAM_0:0:1985894293><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:16: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "bujor<71><STEAM_0:0:2122164373><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:16: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "no slay<72><STEAM_0:0:1985894293><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:16: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "bujor<71><STEAM_0:0:2122164373><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:17: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "bujor<71><STEAM_0:0:2122164373><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:17: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "no slay<72><STEAM_0:0:1985894293><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:17: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "bujor<71><STEAM_0:0:2122164373><>" (team "TERRORIST")
+L 09/08/2015 - 15:27:17: [plmenu.amxx] Cmd: "Dragos^^<73><STEAM_0:0:2145337884><>" transfer "bujor<71><STEAM_0:0:2122164373><>" (team "TERRORIST")
+L 09/08/2015 - 15:41:29: [admincmd.amxx] Cmd: "no slay<72><STEAM_0:0:1985894293><>" ask for players list
+L 09/08/2015 - 15:43:52: [adminchat.amxx] Chat: "Dragos^^<82><STEAM_0:0:2145337884><>" tsay "no slay"
+L 09/08/2015 - 15:49:24: [plmenu.amxx] Cmd: "Dragos^^<82><STEAM_0:0:2145337884><>" transfer "bujor<71><STEAM_0:0:2122164373><>" (team "TERRORIST")
+L 09/08/2015 - 15:49:26: [plmenu.amxx] Cmd: "Dragos^^<82><STEAM_0:0:2145337884><>" transfer "bujor<71><STEAM_0:0:2122164373><>" (team "TERRORIST")
+L 09/08/2015 - 15:49:26: [plmenu.amxx] Cmd: "Dragos^^<82><STEAM_0:0:2145337884><>" transfer "bujor<71><STEAM_0:0:2122164373><>" (team "TERRORIST")
+L 09/08/2015 - 15:49:27: [plmenu.amxx] Cmd: "Dragos^^<82><STEAM_0:0:2145337884><>" transfer "bujor<71><STEAM_0:0:2122164373><>" (team "TERRORIST")
+L 09/08/2015 - 15:49:27: [plmenu.amxx] Cmd: "Dragos^^<82><STEAM_0:0:2145337884><>" transfer "bujor<71><STEAM_0:0:2122164373><>" (team "TERRORIST")
+L 09/08/2015 - 15:49:28: [plmenu.amxx] Cmd: "Dragos^^<82><STEAM_0:0:2145337884><>" transfer "bujor<71><STEAM_0:0:2122164373><>" (team "TERRORIST")
+L 09/08/2015 - 15:49:28: [plmenu.amxx] Cmd: "Dragos^^<82><STEAM_0:0:2145337884><>" transfer "bujor<71><STEAM_0:0:2122164373><>" (team "TERRORIST")
+L 09/08/2015 - 15:49:28: [plmenu.amxx] Cmd: "Dragos^^<82><STEAM_0:0:2145337884><>" transfer "bujor<71><STEAM_0:0:2122164373><>" (team "TERRORIST")
+L 09/08/2015 - 15:49:29: [plmenu.amxx] Cmd: "Dragos^^<82><STEAM_0:0:2145337884><>" transfer "bujor<71><STEAM_0:0:2122164373><>" (team "TERRORIST")
+L 09/08/2015 - 15:49:29: [plmenu.amxx] Cmd: "Dragos^^<82><STEAM_0:0:2145337884><>" transfer "bujor<71><STEAM_0:0:2122164373><>" (team "TERRORIST")
+L 09/08/2015 - 15:49:29: [plmenu.amxx] Cmd: "Dragos^^<82><STEAM_0:0:2145337884><>" transfer "bujor<71><STEAM_0:0:2122164373><>" (team "TERRORIST")
+L 09/08/2015 - 16:21:31: -------- Mapchange to zm_dust_world --------
+L 09/08/2015 - 16:21:32: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 16:21:37: -------- Mapchange to zm_restart_v3 --------
+L 09/08/2015 - 16:21:38: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 16:46:47: [admin_zm.amxx] Login: "Sprint<1><STEAM_0:0:110796921><>" kicked due to invalid password (account "Sprint") (address "5.13.157.60")
+L 09/08/2015 - 16:49:49: -------- Mapchange to zm_inferno --------
+L 09/08/2015 - 16:49:50: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 17:08:23: [admin_zm.amxx] Login: "Sprint<3><STEAM_0:0:110796921><>" kicked due to invalid password (account "Sprint") (address "5.13.157.60")
+L 09/08/2015 - 17:10:24: [admin_zm.amxx] Login: "Sprint<4><STEAM_0:0:110796921><>" kicked due to invalid password (account "Sprint") (address "5.13.157.60")
+L 09/08/2015 - 17:18:01: -------- Mapchange to zm_brambor --------
+L 09/08/2015 - 17:18:02: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 17:46:13: -------- Mapchange to zm_lost_place --------
+L 09/08/2015 - 17:46:14: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 18:14:25: -------- Mapchange to zm_assault_attack --------
+L 09/08/2015 - 18:14:26: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 18:42:37: -------- Mapchange to zm_toxic_house2 --------
+L 09/08/2015 - 18:42:38: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 19:10:49: -------- Mapchange to zm_death_alley --------
+L 09/08/2015 - 19:10:50: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 19:57:19: [admin_zm.amxx] Login: "s3nz0r<17><STEAM_0:0:205314168><>" kicked due to invalid password (account "s3Nz0r") (address "188.26.104.140")
+L 09/08/2015 - 20:00:15: [admincmd.amxx] Cmd: "Dragos^^<12><STEAM_0:0:1034167257><>" slay "NikiSmecheru123<16><STEAM_0:0:534211541><>"
+L 09/08/2015 - 20:09:50: [zm_vip_extra_buy_survnem.amxx] Dragos^^ a cumparat supravietuitor
+L 09/08/2015 - 20:10:53: [adminchat.amxx] Chat: "Dragos^^<12><STEAM_0:0:1034167257><>" tsay "next mod"
+L 09/08/2015 - 20:18:25: -------- Mapchange to zm_ice_attack --------
+L 09/08/2015 - 20:18:26: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 20:46:52: -------- Mapchange to zm_dust2-final_click21 --------
+L 09/08/2015 - 20:46:53: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 21:15:04: -------- Mapchange to zm_pis2 --------
+L 09/08/2015 - 21:15:05: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 21:33:04: [admin_zm.amxx] Login: "PRO-Player-FL<31><STEAM_0:0:840365229><>" kicked due to invalid password (account "PRO-Player-Fl") (address "5.14.165.125")
+L 09/08/2015 - 21:43:16: -------- Mapchange to zm_office --------
+L 09/08/2015 - 21:43:17: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 21:43:18: [admin_zm.amxx] Login: "PRO-Player-FL<33><STEAM_0:0:840365229><>" kicked due to invalid password (account "PRO-Player-Fl") (address "5.14.165.125")
+L 09/08/2015 - 22:11:28: -------- Mapchange to zm_army_tn_beta3 --------
+L 09/08/2015 - 22:11:29: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 22:39:40: -------- Mapchange to zm_666_brick --------
+L 09/08/2015 - 22:39:41: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 23:07:52: -------- Mapchange to zm_aztec_mini --------
+L 09/08/2015 - 23:07:53: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt
+L 09/08/2015 - 23:36:04: -------- Mapchange to zm_army --------
+L 09/08/2015 - 23:36:04: [extreme_bancfg2.amxx] addons/amxmodx/configs/cfgban/override.txt

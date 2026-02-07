@@ -1,0 +1,9 @@
+[en]
+NEXT_MAP = Urmatoarea Harta:
+PLAYED_MAP = Harta Actuala
+FRIEND_FIRE = Friendly-Fire
+
+[ro]
+NEXT_MAP = Urmatoarea Harta:
+PLAYED_MAP = Harta Actuala
+FRIEND_FIRE = Friendly-Fire

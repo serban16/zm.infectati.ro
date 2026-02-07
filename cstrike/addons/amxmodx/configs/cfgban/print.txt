@@ -1,0 +1,10 @@
+=====================================================
+[BAN] Ai fost banat de catre adminul: [ADMIN_NAME] !
+[BAN] Timp de: [BAN_TIME]
+[BAN] Numele tau: [PLAYER_NAME]
+[BAN] Motivul banari: [BAN_REASON]!
+[BAN] Pentru unban viziteaza www.infectati.is-best.net !
+[BAN] SteamID-ul tau : [PLAYER_AUTHID] !
+[BAN] IP-ul tau : [PLAYER_IP]
+[BAN] Plugin tradus in RO de : PoSiTiOn Of PoWeR
+=====================================================

@@ -1,0 +1,21 @@
+[ro]
+IMMUNITY = [Ping Checker] Nu vei fi scanat pe ping...
+MESSAGE = Jucatorii cu ping mai mare de %d vor primi kick
+KICKREASON = Kick: Scuze, dar ai lag prea mare.
+KICKPLAYER = Jucatorul [%s] [%s] [%d > %d] a fost dat afara din cauza pingului prea mare
+REDIRECTPLAYER = Jucatorul [%s] [%s] [%d > %d] a fost redirectionat spre %s:%s pentru ping prea mare...
+BANPLAYER = Jucatorul [%s] [%s] [%d > %d], ban pentru %d min
+LOG_KICK = Highpingmode (kick): ^"%s<%d><%s>^" a fost dat afara (Average Ping ^"%d^")
+LOG_REDIRECT = Highpingmode (Redirect): ^"%s<%d><%s>^" a fost dat afara (Average Ping ^"%d^"), redirected to %s:%s
+LOG_BAN = Highpingmode (Ban): ^"%s<%d><%s>^" a fost dat afara (Average Ping ^"%d^")
+
+[en]
+IMMUNITY = [Ping Checker] Nu vei fi scanat pe ping...
+MESSAGE = Jucatorii cu ping mai mare de %d vor primi kick
+KICKREASON = Kick: Scuze, dar ai lag prea mare.
+KICKPLAYER = Jucatorul [%s] [%s] [%d > %d] a fost dat afara din cauza pingului prea mare
+REDIRECTPLAYER = Jucatorul [%s] [%s] [%d > %d] a fost redirectionat spre %s:%s pentru ping prea mare...
+BANPLAYER = Jucatorul [%s] [%s] [%d > %d], ban pentru %d min
+LOG_KICK = Highpingmode (kick): ^"%s<%d><%s>^" a fost dat afara (Average Ping ^"%d^")
+LOG_REDIRECT = Highpingmode (Redirect): ^"%s<%d><%s>^" a fost dat afara (Average Ping ^"%d^"), redirected to %s:%s
+LOG_BAN = Highpingmode (Ban): ^"%s<%d><%s>^" a fost dat afara (Average Ping ^"%d^")

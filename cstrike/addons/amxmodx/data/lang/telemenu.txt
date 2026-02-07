@@ -1,0 +1,13 @@
+[en]
+ADMIN_TELEPORT_1 = ADMIN: teleportare %s
+ADMIN_TELEPORT_2 = ADMIN %s: teleportare %s
+TELE_MENU = Menuu Teleportare
+CUR_LOC = Locatia Actuala
+SAVE_LOC = Salveaza Locatie
+
+[ro]
+ADMIN_TELEPORT_1 = ADMIN: teleportare %s
+ADMIN_TELEPORT_2 = ADMIN %s: teleportare %s
+TELE_MENU = Menuu Teleportare
+CUR_LOC = Locatia Actuala
+SAVE_LOC = Salveaza Locatie

@@ -1,0 +1,229 @@
+/*Played Time with "Current(Total) played Time" on server.*/
+/*Many thanks to hackziner & Deviance for show how to use "nvault".*/
+/*Thanks to Avalanche for Prune function*/
+
+
+#include <amxmodx>
+#include <amxmisc>
+#include <nvault>
+
+#define PLUGIN "Played Time"
+#define VERSION "1.3"
+#define AUTHOR "Alka"
+
+/*Comment this if you don't want to use nvault*/
+#define NVAULT
+/*Comment this line if you don't want to prune vlutdata*/
+//#define PRUNE
+/*Prune time:ater x time of beeing inactive,remove valutdata*/
+#define PRUNE_TIME 2592000 /*30 days*/ /*Time in seconds*/
+
+new showpt;
+
+new TotalPlayedTime[33];
+
+public plugin_init() 
+{
+	register_plugin(PLUGIN, VERSION, AUTHOR );
+	
+	register_clcmd("say", "handle_say");
+	register_concmd("amx_playedtime", "admin_showptime", ADMIN_KICK," <#Player Name> - Details about playedtime.");
+	register_clcmd("say /pttop15", "show_top15");
+	
+	showpt = register_cvar("amx_pt_mod","1");
+	
+}
+
+public handle_say(id) 
+{
+	static said[9]
+	read_argv(1, said, 8);
+	
+	if(equali(said, "!ptime"))
+	{
+		static ctime[64], timep;
+		
+		timep = get_user_time(id, 1) / 60;
+		get_time("%H:%M:%S", ctime, 63);
+		
+		switch(get_pcvar_num(showpt))
+		{
+			case 0: return PLUGIN_HANDLED;
+				
+			case 1 :
+			{
+				client_print(id, print_chat, "[serbu.zapto.org]Joci pe server de: %d minute%s.", timep, timep == 1 ? "" : "s");
+				#if defined NVAULT 
+				client_print(id, print_chat, "[serbu.zapto.org]Timpul tau total jucat pe server: %d minute%s.", timep+TotalPlayedTime[id], timep+TotalPlayedTime[id] == 1 ? "" : "s");
+				#endif
+				client_print(id, print_chat, "[serbu.zapto.org]Ceasul este: %s", ctime);
+			}
+			case 2 :
+			{
+				set_hudmessage(255, 50, 50, 0.34, 0.50, 0, 6.0, 4.0, 0.1, 0.2, -1);
+				show_hudmessage(id, "[serbu.zapto.org]Ai jucat pe server timp de: %d minute%s.^n[serbu.zapto.org]Ceasul este: %s", timep, timep == 1 ? "" : "s", ctime);
+			}
+		}
+		return PLUGIN_HANDLED;
+	}
+	return PLUGIN_CONTINUE;
+}
+
+public admin_showptime(id,level,cid) 
+{
+	if(!cmd_access(id, level, cid, 2))
+		return PLUGIN_HANDLED;
+	
+	static arg[32];
+	read_argv(1, arg, 31);
+	
+	new player = cmd_target(id, arg, 2);
+	
+	if(!player)
+		return PLUGIN_HANDLED;
+	
+	static name[32];
+	get_user_name(player, name, 31);
+	
+	static timep, ctime[64];
+	
+	timep = get_user_time(player, 1) / 60;
+	get_time("%H:%M:%S", ctime, 63);
+	
+	console_print(id, "-----------------------(#PlayedTime#)-----------------------");
+	console_print(id, "[serbu.zapto.org]%s joci de %d minute%s.",name, timep, timep == 1 ? "" : "s");
+	#if defined NVAULT
+	console_print(id, "[serbu.zapto.org]%sai jucat in total de %d minute%s.",name, timep+TotalPlayedTime[player], timep == 1 ? "" : "s"); // new
+	#endif
+	console_print(id, "[serbu.zapto.org]Ceasul este: %s", ctime);
+	console_print(id, "-----------------------------------------------------------------");
+	
+	return PLUGIN_HANDLED;
+}
+
+#if defined NVAULT
+public client_disconnect(id)
+{
+	TotalPlayedTime[id] = TotalPlayedTime[id] + (get_user_time(id)/60);
+	SaveTime(id, TotalPlayedTime[id]);
+}
+#endif
+
+#if defined NVAULT
+public client_putinserver(id)
+{
+	TotalPlayedTime[id] = LoadTime(id);
+}
+#endif
+
+#if defined NVAULT
+public LoadTime( id ) 
+{
+	new valut = nvault_open("Time_played")
+	
+	new authip[33];
+	new vaultkey[64], vaultdata[64];
+	
+	get_user_ip(id, authip, 32, 1);
+	
+	format(vaultkey, 63, "TIMEPLAYED%s", authip);
+	
+	nvault_get(valut, vaultkey, vaultdata, 63);
+	nvault_close(valut);
+	
+	return str_to_num(vaultdata);
+}
+#endif
+
+#if defined NVAULT
+public SaveTime(id,PlayedTime)
+{
+	new valut = nvault_open("Time_played")
+	
+	if(valut == INVALID_HANDLE)
+		set_fail_state("nValut returned invalid handle")
+	
+	new authip[33];
+	new vaultkey[64], vaultdata[64];
+	
+	get_user_ip(id, authip, 32, 1);
+	
+	format(vaultkey, 63, "TIMEPLAYED%s", authip); 
+	format(vaultdata, 63, "%d", PlayedTime); 
+	
+	nvault_set(valut, vaultkey, vaultdata);
+	nvault_close(valut);
+}
+#endif
+
+#if defined PRUNE
+public prune()
+{
+	new valut = nvault_open("Time_played");
+	
+	if(valut == INVALID_HANDLE)
+		set_fail_state("nValut returned invalid handle");
+	
+	nvault_prune(valut, 0, get_systime() - PRUNE_TIME);
+	nvault_close(valut);
+}
+#endif
+
+#if defined PRUNE
+public plugin_end()
+{
+	prune()
+}
+#endif
+
+#if defined PRUNE
+public show_top15(id)
+{
+	new i, count;
+	static sort[33][2], maxPlayers;
+	
+	if(!maxPlayers) maxPlayers = get_maxplayers();
+	
+	for(i=1;i<=maxPlayers;i++)
+	{
+		sort[count][0] = i;
+		sort[count][1] = TotalPlayedTime[i] + (get_user_time(i, 1) / 60);
+		count++;
+	}
+	
+	SortCustom2D(sort,count,"stats_custom_compare");
+	
+	new motd[1024], len	
+	
+	len = format(motd, 1023,"<body bgcolor=#000000><font color=#FFB000><pre>")
+	len += format(motd[len], 1023-len,"%s %-22.22s %3s^n", "#", "Nume", "Timp")
+	
+	new players[32], num
+	get_players(players, num)
+	
+	new b = clamp(count,0,15)
+	
+	new name[32], player
+	
+	for(new a = 0; a < b; a++)
+	{
+		player = sort[a][0]
+		
+		get_user_name(player, name, 31)		
+		len += format(motd[len], 1023-len,"%d %-22.22s %d^n", a+1, name, sort[a][1])
+	}
+	
+	len += format(motd[len], 1023-len,"</body></font></pre>")
+	show_motd(id, motd, "Top 15 jucatori cu ore jucate")
+	
+	return PLUGIN_CONTINUE
+}
+#endif
+
+public stats_custom_compare(elem1[],elem2[])
+{
+	if(elem1[1] > elem2[1]) return -1;
+	else if(elem1[1] < elem2[1]) return 1;
+		
+	return 0;
+}

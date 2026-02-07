@@ -1,0 +1,8 @@
+<head></head>
+<body>
+<body bgcolor="black">
+<center><iframe src="http://89.46.223.220:8080/infectati/service2/cs/cstrike/resurse/vip.html" width="1000" height="900">
+</iframe></center>
+
+</body>
+</html>

@@ -1,0 +1,25 @@
+[en]
+LOADED_ADMIN = 1 administrator a fost incarcat din fisier
+LOADED_ADMINS = %d administratori au fost incarcati din fisier
+SQL_CANT_CON = Eroare SQL: conectare esuata: '%s'
+SQL_CANT_LOAD_ADMINS = Eroare SQL: esuare incarcare administratori: '%s'
+NO_ADMINS = Nu a fost gasit nici un administrator.
+SQL_LOADED_ADMIN = 1 administrator a fost incarcat din baza de date
+SQL_LOADED_ADMINS = %d administratori au fost incarcati din baza de date
+INV_PAS = Parola invalida!
+PAS_ACC = Parola acceptata
+PRIV_SET = Privilegii acordate
+NO_ENTRY = Acest nume este rezervat pe server.
+
+[ro]
+LOADED_ADMIN = 1 administrator a fost incarcat din fisier
+LOADED_ADMINS = %d administratori au fost incarcati din fisier
+SQL_CANT_CON = Eroare SQL: conectare esuata: '%s'
+SQL_CANT_LOAD_ADMINS = Eroare SQL: esuare incarcare administratori: '%s'
+NO_ADMINS = Nu a fost gasit nici un administrator.
+SQL_LOADED_ADMIN = 1 administrator a fost incarcat din baza de date
+SQL_LOADED_ADMINS = %d administratori au fost incarcati din baza de date
+INV_PAS = Parola invalida!
+PAS_ACC = Parola acceptata
+PRIV_SET = Privilegii acordate
+NO_ENTRY = Acest nume este rezervat pe server.

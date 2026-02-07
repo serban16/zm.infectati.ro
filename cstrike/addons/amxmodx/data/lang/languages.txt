@@ -1,0 +1,7 @@
+[en]
+LANG_NAME = English
+LANG_NAME_NATIVE = English
+
+[ro]
+LANG_NAME = Romanian
+LANG_NAME_NATIVE = Romana

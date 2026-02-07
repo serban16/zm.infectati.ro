@@ -1,0 +1,5 @@
+L 08/29/2015 - 17:39:04: Start of error session.
+L 08/29/2015 - 17:39:04: Info (map "zm_3rooms") (file "addons/amxmodx/logs/error_20150829.log")
+L 08/29/2015 - 17:39:04: [ENGINE] Invalid entity 167
+L 08/29/2015 - 17:39:04: [AMXX] Run time error 10 (plugin "zp_extra_item_gas_mask_2-1.amxx") (native "entity_range") - debug not enabled!
+L 08/29/2015 - 17:39:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
