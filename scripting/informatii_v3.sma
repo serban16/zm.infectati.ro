@@ -8,7 +8,7 @@
 public plugin_init()
 {
    register_plugin(PLUGIN, VERSION, AUTHOR)
-
+ 
    register_clcmd("say /ajutor","ajutor")
    register_clcmd("say_team /ajutor","ajutor")
    register_clcmd("say /informatii","informatii")
@@ -188,3 +188,4 @@ public vot(id)
 {
 	show_motd(id,"/addons/amxmodx/configs/informatii/vot.html","vot")
 }
+
